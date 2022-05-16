@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Franvidela
-- 👀 I’m interested in ... ux writer.
-- 🌱 I’m currently learning ... Html,Css and Js.
+- 👀 I’m interested in ... full stack.
+- 🌱 I’m currently learning ... Javascript and Python.
 - 💞️ I’m looking to collaborate on ... everything and everyone.
 - 📫 How to reach me ... social networks, i got a lot of them.
 
