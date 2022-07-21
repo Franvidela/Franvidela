@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Franvidela
-- 👀 I’m interested in ... full stack.
+- 👀 I’m interested in ... AI.
 - 🌱 I’m currently learning ... Javascript and Python.
 - 💞️ I’m looking to collaborate on ... everything and everyone.
 - 📫 How to reach me ... social networks, i got a lot of them.
